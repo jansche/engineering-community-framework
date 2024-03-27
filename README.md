@@ -14,23 +14,11 @@ Support the success of your company's transformation, openness and collaboration
 
 ### Statement
 
-[The LF Energy ecosystem is designed and engineered to support rapid decarbonization that benefits the environment, enables economic prosperity, and leads to social well-being for future generations.]
-
 ### Rationale
-
-[To mitigate the worst of climate change, research scientists have concluded that power systems must lead global decarbonization efforts to remove fossil-fuel from our economies. Right behind power system transformation will be passenger vehicles, the built environment, and trucks. Together these interrelated efforts represent 75% of the carbon currently being emitted. Failure is not an option.]
-
-[The goal of LF Energy is to enable this energy and power system transformation in a way that ensures both the health of the world’s economy and the health of people, the planet, and the well-being of future generations. Our mission is to provide a 21st century plan of action to respond to decarbonization of power systems, transportation, and buildings through open source, open frameworks, reference architectures, leveraged collaborative development, and a support ecosystem of complementary projects.]
 
 ### Implications
 
-[To enable open, global collaboration and cooperation around transforming economies to be carbon neutral, LF Energy recognizes that clean and renewable energy, power systems, and transportation are central to nearly every challenge and opportunity facing humanity. For this reason, LF Energy declares:]
-
-[Projects and working groups will support and not contradict the Universal Declaration of Human Rights.
-LF Energy projects will seek to ensure access to affordable, reliable, sustainable and modern energy for all people through alignment to the UN Sustainable Development Goals.
-Projects that do not contribute to the UN Sustainable Development Goals or that in some way violate the Universal Declaration of Human Rights will not be adopted into the LF Energy ecosystem.]
-
-## Architecture Principles
+## Community Principles
 
 **Statement**- The following principles are intended to guide the evolution and growth of the engineering community within the company.
 
