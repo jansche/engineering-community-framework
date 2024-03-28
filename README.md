@@ -9,18 +9,25 @@ Governance: The Governing Board will hold responsibility to the [Engineering Org
 
 ### Mission
 
-Support the success of your company's transformation, openness and collaboration goals, e.g.
-> Support the success of E.ONs DevOps transformation through openness.
+Support the success of your company's transformation, openness and collaboration goals, etc, e.g.
+> Support the success of the E.ONs DevOps transformation.
 
 ### Statement
 
+[COMPANY] has identified [X] main goals to improve business in the areas of [foo] and [bar]. The Engineering team and especially the Engineering community contributes to these goals through being a welcoming best-in-class place to work for engineers and the development of their careers.
+
+> E.ON has identified 4 main goals in their DevOps transformation (Project Nautilus) in the areas of product centricity, automation, DevOps processing and rightsourcing. The engineering org has operational as well as technological responsibility in this journey, and the engineering community is the backbone to its success.
+
 ### Rationale
 
+An engineering team is more than the sum of its members technological expertise. To build and sustain an attractive and collaborative team, whose members see and use ubiqitous opportunities to develop, it's essential to have a healthy community with a value-based culture.
+
 ### Implications
+A vivid, diverse and psychologically safe community is built on top of a growth mindset, sustainability, togetherness, belonging and many more factors, that, in turn, contribute to the team's performance and retention, and the overall team purpose and its role in the company's transformation. To ensure all of this to not only happen but develop further and improve, we're defining **5 Guiding Community Principles**: **Openness**, **Kindness**, **Simplicity**, **Inclusivity** and **Ubiquitous Learning**. 
 
 ## Community Principles
 
-**Statement**- The following principles are intended to guide the evolution and growth of the engineering community within the company.
+**Statement** - The following principles are intended to guide the evolution and growth of the engineering community within the company.
 
 ### Principle #1 - Openness by default
 
